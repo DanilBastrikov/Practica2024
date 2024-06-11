@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Practica2024ModelContainer" CdmEntityContainer="Practica2024Entities">
+    <EntitySetMapping Name="Agents">
+      <EntityTypeMapping TypeName="Practica2024Model.Agents">
+        <MappingFragment StoreEntitySet="Agents">
+          <ScalarProperty Name="Id_Agent" ColumnName="Id_Agent" />
+          <ScalarProperty Name="DealShare" ColumnName="DealShare" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Apartments">
+      <EntityTypeMapping TypeName="Practica2024Model.Apartments">
+        <MappingFragment StoreEntitySet="Apartments">
+          <ScalarProperty Name="Id_Apartment" ColumnName="Id_Apartment" />
+          <ScalarProperty Name="TotalArea" ColumnName="TotalArea" />
+          <ScalarProperty Name="Rooms" ColumnName="Rooms" />
+          <ScalarProperty Name="Floors" ColumnName="Floors" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="Practica2024Model.Clients">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="Id_Client" ColumnName="Id_Client" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Deals">
+      <EntityTypeMapping TypeName="Practica2024Model.Deals">
+        <MappingFragment StoreEntitySet="Deals">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Supply" ColumnName="Id_Supply" />
+          <ScalarProperty Name="Id_Demand" ColumnName="Id_Demand" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Demand_Apartments">
+      <EntityTypeMapping TypeName="Practica2024Model.Demand_Apartments">
+        <MappingFragment StoreEntitySet="Demand_Apartments">
+          <ScalarProperty Name="Id_Apartment" ColumnName="Id_Apartment" />
+          <ScalarProperty Name="MinArea" ColumnName="MinArea" />
+          <ScalarProperty Name="MaxArea" ColumnName="MaxArea" />
+          <ScalarProperty Name="MinRooms" ColumnName="MinRooms" />
+          <ScalarProperty Name="MaxRooms" ColumnName="MaxRooms" />
+          <ScalarProperty Name="MinFloor" ColumnName="MinFloor" />
+          <ScalarProperty Name="MaxFloor" ColumnName="MaxFloor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Demand_Houses">
+      <EntityTypeMapping TypeName="Practica2024Model.Demand_Houses">
+        <MappingFragment StoreEntitySet="Demand_Houses">
+          <ScalarProperty Name="Id_House" ColumnName="Id_House" />
+          <ScalarProperty Name="MinArea" ColumnName="MinArea" />
+          <ScalarProperty Name="MaxArea" ColumnName="MaxArea" />
+          <ScalarProperty Name="MinRooms" ColumnName="MinRooms" />
+          <ScalarProperty Name="MaxRooms" ColumnName="MaxRooms" />
+          <ScalarProperty Name="MinFloor" ColumnName="MinFloor" />
+          <ScalarProperty Name="MaxFloor" ColumnName="MaxFloor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Demand_Lands">
+      <EntityTypeMapping TypeName="Practica2024Model.Demand_Lands">
+        <MappingFragment StoreEntitySet="Demand_Lands">
+          <ScalarProperty Name="Id_Land" ColumnName="Id_Land" />
+          <ScalarProperty Name="MinArea" ColumnName="MinArea" />
+          <ScalarProperty Name="MaxArea" ColumnName="MaxArea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Demands">
+      <EntityTypeMapping TypeName="Practica2024Model.Demands">
+        <MappingFragment StoreEntitySet="Demands">
+          <ScalarProperty Name="Id_Demand" ColumnName="Id_Demand" />
+          <ScalarProperty Name="Id_Client" ColumnName="Id_Client" />
+          <ScalarProperty Name="Id_Agent" ColumnName="Id_Agent" />
+          <ScalarProperty Name="Type_RealEstate" ColumnName="Type_RealEstate" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="MinPrice" ColumnName="MinPrice" />
+          <ScalarProperty Name="MaxPrice" ColumnName="MaxPrice" />
+          <ScalarProperty Name="Id_Apartment" ColumnName="Id_Apartment" />
+          <ScalarProperty Name="Id_House" ColumnName="Id_House" />
+          <ScalarProperty Name="Id_Land" ColumnName="Id_Land" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Districts">
+      <EntityTypeMapping TypeName="Practica2024Model.Districts">
+        <MappingFragment StoreEntitySet="Districts">
+          <ScalarProperty Name="Id_District" ColumnName="Id_District" />
+          <ScalarProperty Name="Names" ColumnName="Names" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Houses">
+      <EntityTypeMapping TypeName="Practica2024Model.Houses">
+        <MappingFragment StoreEntitySet="Houses">
+          <ScalarProperty Name="Id_House" ColumnName="Id_House" />
+          <ScalarProperty Name="TotalFloor" ColumnName="TotalFloor" />
+          <ScalarProperty Name="TotalArea" ColumnName="TotalArea" />
+          <ScalarProperty Name="TotalRooms" ColumnName="TotalRooms" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lands">
+      <EntityTypeMapping TypeName="Practica2024Model.Lands">
+        <MappingFragment StoreEntitySet="Lands">
+          <ScalarProperty Name="Id_Land" ColumnName="Id_Land" />
+          <ScalarProperty Name="TotalArea" ColumnName="TotalArea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RealEstates">
+      <EntityTypeMapping TypeName="Practica2024Model.RealEstates">
+        <MappingFragment StoreEntitySet="RealEstates">
+          <ScalarProperty Name="Id_RealEstate" ColumnName="Id_RealEstate" />
+          <ScalarProperty Name="Id_District" ColumnName="Id_District" />
+          <ScalarProperty Name="Adress_City" ColumnName="Adress_City" />
+          <ScalarProperty Name="Adress_Street" ColumnName="Adress_Street" />
+          <ScalarProperty Name="Adress_House" ColumnName="Adress_House" />
+          <ScalarProperty Name="Adress_Number" ColumnName="Adress_Number" />
+          <ScalarProperty Name="Coordinate_latitude" ColumnName="Coordinate_latitude" />
+          <ScalarProperty Name="Coordinate_longitude" ColumnName="Coordinate_longitude" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Supply">
+      <EntityTypeMapping TypeName="Practica2024Model.Supply">
+        <MappingFragment StoreEntitySet="Supply">
+          <ScalarProperty Name="Id_Supply" ColumnName="Id_Supply" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Id_Agent" ColumnName="Id_Agent" />
+          <ScalarProperty Name="Id_Client" ColumnName="Id_Client" />
+          <ScalarProperty Name="Id_RealEstate" ColumnName="Id_RealEstate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,54 @@
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.csproj.AssemblyReference.cache
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\App.g.cs
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024_Content.g.cs
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024_MarkupCompile.cache
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024_MarkupCompile.lref
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\PR2024.exe.config
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\PR2024.exe
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\PR2024.pdb
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\EntityFramework.dll
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\EntityFramework.xml
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Puchindoo\source\repos\Labi\PR2024\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Agent.g.cs
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\App.baml
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Agent.baml
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.g.resources
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.Properties.Resources.resources
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.csproj.GenerateResource.cache
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.csproj.CoreCompileInputs.cache
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.csproj.Up2Date
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.exe
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\PR2024.pdb
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Supply.g.cs
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Supply.baml
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Deal.g.cs
+C:\Users\Puchindoo\source\repos\Labi\PR2024\obj\Debug\Deal.baml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\PR2024.exe.config
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\PR2024.exe
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\PR2024.pdb
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\EntityFramework.dll
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\EntityFramework.SqlServer.dll
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\EntityFramework.xml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\EntityFramework.SqlServer.xml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\bin\Debug\ru\EntityFramework.resources.dll
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.csproj.AssemblyReference.cache
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Agent.g.cs
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Deal.g.cs
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Supply.g.cs
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\App.g.cs
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024_Content.g.cs
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024_MarkupCompile.cache
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024_MarkupCompile.lref
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\App.baml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Agent.baml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Deal.baml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\Supply.baml
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.g.resources
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.Properties.Resources.resources
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.csproj.GenerateResource.cache
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.csproj.CoreCompileInputs.cache
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.csproj.CopyComplete
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.exe
+E:\СИ ПЛЮС ПЛЮС\PR2024дляпидоров\obj\Debug\PR2024.pdb
